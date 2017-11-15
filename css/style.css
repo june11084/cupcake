@@ -1,0 +1,33 @@
+
+body {
+  background-color: #b09ce2;
+}
+
+h1.flashy {
+  color: red;
+  text-shadow: 30px;
+  font-style: italic;
+}
+
+h2.flashy {
+  color: red;
+  text-shadow: 30px;
+  font-style: italic;
+}
+
+h4.flashy {
+  color: red;
+  text-shadow: 30px;
+  font-style: italic;
+}
+
+.best {
+  color: purple;
+  font-family: cursive;
+  font-weight: bolder;
+  text-shadow: 20px;
+
+}
+ul.flavors {
+    outline: inherit;
+}
